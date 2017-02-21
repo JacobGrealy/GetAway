@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 2533ce83c0d17cb4f890419285b9747d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: cL_Shoulder
+    100002: cL_Shoulder1
+    100004: cR_Shoulder1
+    100006: cR_Shoulder2
+    100008: group1
+    100010: group10
+    100012: group11
+    100014: group12
+    100016: group13
+    100018: group14
+    100020: group15
+    100022: group16
+    100024: group17
+    100026: group18
+    100028: group19
+    100030: group2
+    100032: group20
+    100034: group21
+    100036: group22
+    100038: group3
+    100040: group4
+    100042: group5
+    100044: group6
+    100046: group7
+    100048: group8
+    100050: group9
+    100052: Head1
+    100054: ikHandle1
+    100056: ikHandle10
+    100058: ikHandle2
+    100060: ikHandle3
+    100062: ikHandle4
+    100064: ikHandle5
+    100066: ikHandle6
+    100068: ikHandle7
+    100070: ikHandle8
+    100072: ikHandle9
+    100074: Jaw1
+    100076: joint1
+    100078: joint10
+    100080: joint10 1
+    100082: joint11
+    100084: joint11 1
+    100086: joint12
+    100088: joint13
+    100090: joint14
+    100092: joint15
+    100094: joint16
+    100096: joint17
+    100098: joint18
+    100100: joint19
+    100102: joint2
+    100104: joint2 1
+    100106: joint20
+    100108: joint21
+    100110: joint22
+    100112: joint23
+    100114: joint24
+    100116: joint25
+    100118: joint26
+    100120: joint27
+    100122: joint28
+    100124: joint29
+    100126: joint3
+    100128: joint3 1
+    100130: joint30
+    100132: joint31
+    100134: joint32
+    100136: joint4
+    100138: joint4 1
+    100140: joint5
+    100142: joint5 1
+    100144: joint6
+    100146: joint6 1
+    100148: joint7
+    100150: joint8
+    100152: joint8 1
+    100154: joint9
+    100156: joint9 1
+    100158: Main
+    100160: Main1
+    100162: Main2
+    100164: Main3
+    100166: nurbsCircle1
+    100168: nurbsCircle10
+    100170: nurbsCircle11
+    100172: nurbsCircle12
+    100174: nurbsCircle13
+    100176: nurbsCircle2
+    100178: nurbsCircle3
+    100180: nurbsCircle4
+    100182: nurbsCircle5
+    100184: nurbsCircle6
+    100186: nurbsCircle7
+    100188: nurbsCircle8
+    100190: nurbsCircle9
+    100192: //RootNode
+    100194: spinosaurus_teeth_exp3
+    400000: cL_Shoulder
+    400002: cL_Shoulder1
+    400004: cR_Shoulder1
+    400006: cR_Shoulder2
+    400008: group1
+    400010: group10
+    400012: group11
+    400014: group12
+    400016: group13
+    400018: group14
+    400020: group15
+    400022: group16
+    400024: group17
+    400026: group18
+    400028: group19
+    400030: group2
+    400032: group20
+    400034: group21
+    400036: group22
+    400038: group3
+    400040: group4
+    400042: group5
+    400044: group6
+    400046: group7
+    400048: group8
+    400050: group9
+    400052: Head1
+    400054: ikHandle1
+    400056: ikHandle10
+    400058: ikHandle2
+    400060: ikHandle3
+    400062: ikHandle4
+    400064: ikHandle5
+    400066: ikHandle6
+    400068: ikHandle7
+    400070: ikHandle8
+    400072: ikHandle9
+    400074: Jaw1
+    400076: joint1
+    400078: joint10
+    400080: joint10 1
+    400082: joint11
+    400084: joint11 1
+    400086: joint12
+    400088: joint13
+    400090: joint14
+    400092: joint15
+    400094: joint16
+    400096: joint17
+    400098: joint18
+    400100: joint19
+    400102: joint2
+    400104: joint2 1
+    400106: joint20
+    400108: joint21
+    400110: joint22
+    400112: joint23
+    400114: joint24
+    400116: joint25
+    400118: joint26
+    400120: joint27
+    400122: joint28
+    400124: joint29
+    400126: joint3
+    400128: joint3 1
+    400130: joint30
+    400132: joint31
+    400134: joint32
+    400136: joint4
+    400138: joint4 1
+    400140: joint5
+    400142: joint5 1
+    400144: joint6
+    400146: joint6 1
+    400148: joint7
+    400150: joint8
+    400152: joint8 1
+    400154: joint9
+    400156: joint9 1
+    400158: Main
+    400160: Main1
+    400162: Main2
+    400164: Main3
+    400166: nurbsCircle1
+    400168: nurbsCircle10
+    400170: nurbsCircle11
+    400172: nurbsCircle12
+    400174: nurbsCircle13
+    400176: nurbsCircle2
+    400178: nurbsCircle3
+    400180: nurbsCircle4
+    400182: nurbsCircle5
+    400184: nurbsCircle6
+    400186: nurbsCircle7
+    400188: nurbsCircle8
+    400190: nurbsCircle9
+    400192: //RootNode
+    400194: spinosaurus_teeth_exp3
+    4300000: spinosaurus_teeth_exp3
+    7400004: idle
+    7400006: walk
+    7400008: run
+    7400010: bite
+    7400012: die
+    11100000: //RootNode
+    13700000: spinosaurus_teeth_exp3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: 
+      firstFrame: 1
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 45
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 75
+      lastFrame: 114
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: bite
+      takeName: 
+      firstFrame: 115
+      lastFrame: 141
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: 
+      firstFrame: 145
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9a88a07c0ca142f4cbc463b95ddbf95e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - normalMaterial: {fileID: 2100000, guid: ddb260370c03865499045410f9097297, type: 2}
+  - hoverMaterial: {fileID: 2100000, guid: 38751a0c712386d4281bdb8c14a8d98e, type: 2}
+  - xboxMaterial: {fileID: 2100000, guid: 4bf8d4eb1d15ccf4a8f08f05ee23eca1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

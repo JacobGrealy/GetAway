@@ -1,0 +1,273 @@
+[
+    {
+        "_comment": "Crude Axe",
+        "id": 1,
+        "ingredients": [
+            {
+                "id": "10006",
+                "quantity": 2
+            },
+            {
+                "id": "10005",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Standard Axe",
+        "id": 2,
+        "ingredients": [
+            {
+                "id": "10001",
+                "quantity": 4
+            },
+            {
+                "id": "10002",
+                "quantity": 3
+            },
+            {
+                "id": "10003",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Crude Spear",
+        "id": 20,
+        "ingredients": [
+            {
+                "id": "10001",
+                "quantity": 1
+            },
+            {
+                "id": "10002",
+                "quantity": 2
+            },
+            {
+                "id": "10003",
+                "quantity": 1
+            }
+        ]
+    },
+        {
+        "_comment": "Sean's Spear",
+        "id": 1337,
+        "ingredients": [
+            {
+                "id": "10001",
+                "quantity": 5
+            },
+            {
+                "id": "10002",
+                "quantity": 10
+            },
+            {
+            	"id": "10014",
+            	"quantity": 2
+            }
+        ]
+    },
+       {
+        "_comment": "Crude Bow",
+        "id": 40,
+        "ingredients": [
+            {
+                "id": "10002",
+                "quantity": 2
+            },
+            {
+                "id": "10003",
+                "quantity": 1
+            },
+            {
+            	"id": "10013",
+            	"quantity": 2
+            }
+        ]
+    },
+        {
+        "_comment": "Strong Bow",
+        "id": 41,
+        "ingredients": [
+            {
+                "id": "10002",
+                "quantity": 3
+            },
+            {
+                "id": "10003",
+                "quantity": 2
+            },
+            {
+            	"id": "10016",
+            	"quantity": 5
+            }
+            
+        ]
+    },
+    {
+        "_comment": "Campfire",
+        "id": 10009,
+        "ingredients": [
+            {
+                "id": "10007",
+                "quantity": 2
+            },
+            {
+                "id": "10015",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Dull Wood Stick",
+        "id": 10002,
+        "ingredients": [
+            {
+                "id": "10006",
+                "quantity": 3
+            }
+        ]
+    },
+    {
+        "_comment": "Dull Wood Stick",
+        "id": 10002,
+        "ingredients": [
+            {
+                "id": "10007",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Refined Stone",
+        "id": 10001,
+        "ingredients": [
+            {
+                "id": "10005",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Sharpened Wood Stick",
+        "id": 10016,
+        "ingredients": [
+            {
+                "id": "10002",
+                "quantity": 1
+            },
+            {
+                "id": "10021",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Rope",
+        "id": 10018,
+        "ingredients": [
+            {
+                "id": "10003",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Reinforced Rope",
+        "id": 10019,
+        "ingredients": [
+            {
+                "id": "10018",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Torch",
+        "id": 60,
+        "ingredients": [
+            {
+                "id": "10015",
+                "quantity": 1
+            },
+            {
+                "id": "10002",
+                "quantity": 1
+            },
+            {
+                "id": "10003",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Shaped Wood Plank",
+        "id": 10020,
+        "ingredients": [
+            {
+                "id": "10007",
+                "quantity": 1
+            },
+            {
+                "id": "10019",
+                "quantity": 1
+            },
+            {
+                "id": "10021",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Raft Paddle",
+        "id": 20000,
+        "ingredients": [
+            {
+                "id": "10019",
+                "quantity": 1
+            },
+            {
+                "id": "10020",
+                "quantity": 1
+            }
+        ]
+    },
+    {
+        "_comment": "Raft Support Structure",
+        "id": 20001,
+        "ingredients": [
+            {
+                "id": "10020",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Raft Plank",
+        "id": 20002,
+        "ingredients": [
+            {
+                "id": "10020",
+                "quantity": 2
+            }
+        ]
+    },
+    {
+        "_comment": "Raft",
+        "id": 10011,
+        "ingredients": [
+            {
+                "id": "20001",
+                "quantity": 1
+            },
+            {
+                "id": "20002",
+                "quantity": 4
+            },
+            {
+                "id": "20000",
+                "quantity": 2
+            }
+        ]
+    }
+]

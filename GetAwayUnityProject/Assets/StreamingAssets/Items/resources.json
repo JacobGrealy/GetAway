@@ -1,0 +1,174 @@
+[
+    {
+        "id": 10000,
+        "name": "Unrefined Stone",
+        "description": "Weak stone taken straight from the ground.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10001,
+        "name": "Refined Stone",
+        "description": "Stone that has been refined into a stronger form.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10002,
+        "name": "Dull Wood Stick",
+        "description": "A practically useless stick. Do you really want this?",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10003,
+        "name": "Vine",
+        "description": "A vine. Naturally bendy!",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10004,
+        "name": "Dinosaur Leg",
+        "description": "Mmm... tasty! Wait, is this safe to eat?",
+        "type": "CONSUMABLE",
+        "health": 40,
+        "hunger": 20,
+        "thirst": 0,
+    	"sanity": 1
+    },
+    {
+        "id": 10005,
+        "name": "Beach Rock",
+        "description": "Some weak rocks found on the beach. Useful for crafting.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10006,
+        "name": "Drift Wood",
+        "description": "Weak sticks washed ashore from old trees. Useful for crafting.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10007,
+        "name": "Log",
+        "description": "Large logs perfect for burning.",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10008,
+        "name": "Lighter",
+        "description": "It makes fire!",
+        "type": "DESTROYABLE"
+    },
+    {
+        "id": 10009,
+        "name": "Campfire",
+        "description": "The crowning achievement of man: Fire!",
+        "type": "USEABLE"
+    },
+    {
+    	"id": 10010,
+    	"name": "Berry",
+    	"description": "Random berry for eating, don't know the effects though.",
+    	"type": "CONSUMABLE",
+        "health": 10,
+        "hunger": 5,
+        "thirst": 0,
+    	"sanity": -10
+    },
+    {
+    	"id": 10011,
+    	"name": "Raft",
+    	"description": "The thing you have been waiting for. ESCAPE NOW!",
+    	"type": "USEABLE"
+    },
+    {
+    	"id": 10012,
+    	"name": "Onion",
+    	"description": "While smelly, onions make for a decent source of nutrition.",
+    	"type": "CONSUMABLE",
+        "health": 5,
+        "hunger": 10,
+        "thirst": 0,
+    	"sanity": 0
+    },
+    {
+    	"id": 10013,
+    	"name": "Dinosaur Bone",
+    	"description": "A bone from a real dinosaur. Useful for weapon crafting.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10014,
+    	"name": "Meteor",
+    	"description": "A mysterious glowing rock that has fallen from the sky.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10015,
+    	"name": "Flint",
+    	"description": "A rock that produces sparks when struck with a hard material.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10016,
+    	"name": "Sharpened Wood Stick",
+    	"description": "A sharp stick probably useful for stabbing things with.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10017,
+    	"name": "Reinforced Wood Rod",
+    	"description": "A reinforced stick probably useful for building things with.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10018,
+    	"name": "Rope",
+    	"description": "A rope useful for many purposes.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10019,
+    	"name": "Reinforced Rope",
+    	"description": "A reinforced rope useful for only the sturdiest purposes.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10020,
+    	"name": "Shaped Plank",
+    	"description": "A shaped wood plank. Perhaps useful as part of a paddle?",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10021,
+    	"name": "Sandstone",
+    	"description": "A rough stone composed of sand.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 10022,
+    	"name": "Coconut",
+    	"description": "A delicious snack that falls from trees.",
+    	"type": "CONSUMABLE",
+        "health": 0,
+        "hunger": 5,
+        "thirst": 20,
+    	"sanity": 0
+    },
+    {
+    	"id": 20000,
+    	"name": "Raft Paddle",
+    	"description": "A useful tool for paddling through water in a raft.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 20001,
+    	"name": "Raft Support",
+    	"description": "A raft support structure, crafted from reinforced wood.",
+    	"type": "DESTROYABLE"
+    },
+    {
+    	"id": 20002,
+    	"name": "Raft Plank",
+    	"description": "A plank used to construct the exterior of the raft.",
+    	"type": "DESTROYABLE"
+    }
+]

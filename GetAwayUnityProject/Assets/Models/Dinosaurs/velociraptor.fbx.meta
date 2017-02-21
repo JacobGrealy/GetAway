@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: f413cf1e52b13a64da49d4f891b95451
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Box001
+    100002: curve1
+    100004: curve2
+    100006: curve3
+    100008: curve4
+    100010: group5
+    100012: group6
+    100014: group7
+    100016: ikHandle1
+    100018: ikHandle1 1
+    100020: ikHandle1 2
+    100022: ikHandle10
+    100024: ikHandle11
+    100026: ikHandle3
+    100028: ikHandle3 1
+    100030: ikHandle3 2
+    100032: ikHandle3 3
+    100034: ikHandle4
+    100036: ikHandle5
+    100038: ikHandle6
+    100040: ikHandle7
+    100042: ikHandle8
+    100044: ikHandle9
+    100046: joint1
+    100048: joint10
+    100050: joint11
+    100052: joint12
+    100054: joint13
+    100056: joint14
+    100058: joint15
+    100060: joint15 1
+    100062: joint15 2
+    100064: joint16
+    100066: joint16 1
+    100068: joint16 2
+    100070: joint17
+    100072: joint17 1
+    100074: joint17 2
+    100076: joint18
+    100078: joint19
+    100080: joint2
+    100082: joint20
+    100084: joint21
+    100086: joint22
+    100088: joint23
+    100090: joint24
+    100092: joint25
+    100094: joint25 1
+    100096: joint25 2
+    100098: joint26
+    100100: joint26 1
+    100102: joint26 2
+    100104: joint27
+    100106: joint28
+    100108: joint29
+    100110: joint3
+    100112: joint30
+    100114: joint31
+    100116: joint32
+    100118: joint33
+    100120: joint34
+    100122: joint35
+    100124: joint36
+    100126: joint37
+    100128: joint38
+    100130: joint39
+    100132: joint4
+    100134: joint40
+    100136: joint41
+    100138: joint42
+    100140: joint43
+    100142: joint44
+    100144: joint45
+    100146: joint46
+    100148: joint47
+    100150: joint48
+    100152: joint49
+    100154: joint5
+    100156: joint50
+    100158: joint51
+    100160: joint52
+    100162: joint53
+    100164: joint54
+    100166: joint55
+    100168: joint56
+    100170: joint57
+    100172: joint58
+    100174: joint59
+    100176: joint6
+    100178: joint60
+    100180: joint61
+    100182: joint62
+    100184: joint7
+    100186: joint8
+    100188: joint9
+    100190: nurbsCircle11
+    100192: nurbsCircle12
+    100194: nurbsCircle13
+    100196: nurbsCircle14
+    100198: nurbsCircle15
+    100200: nurbsCircle16
+    100202: nurbsCircle18
+    100204: nurbsCircle19
+    100206: nurbsCircle21
+    100208: nurbsCircle25
+    100210: nurbsCircle26
+    100212: nurbsCircle27
+    100214: nurbsCircle29
+    100216: nurbsCircle30
+    100218: nurbsCircle31
+    100220: nurbsCircle32
+    100222: nurbsCircle33
+    100224: nurbsCircle34
+    100226: nurbsCircle35
+    100228: nurbsCircle36
+    100230: nurbsCircle37
+    100232: nurbsCircle38
+    100234: nurbsCircle39
+    100236: nurbsCircle40
+    100238: nurbsCircle41
+    100240: nurbsCircle42
+    100242: nurbsCircle43
+    100244: nurbsCircle44
+    100246: nurbsCircle45
+    100248: nurbsCircle46
+    100250: nurbsCircle47
+    100252: nurbsCircle48
+    100254: nurbsCircle49
+    100256: nurbsCircle50
+    100258: nurbsCircle51
+    100260: nurbsCircle8
+    100262: nurbsCircle9
+    100264: rig
+    100266: transform1
+    100268: //RootNode
+    400000: Box001
+    400002: curve1
+    400004: curve2
+    400006: curve3
+    400008: curve4
+    400010: group5
+    400012: group6
+    400014: group7
+    400016: ikHandle1
+    400018: ikHandle1 1
+    400020: ikHandle1 2
+    400022: ikHandle10
+    400024: ikHandle11
+    400026: ikHandle3
+    400028: ikHandle3 1
+    400030: ikHandle3 2
+    400032: ikHandle3 3
+    400034: ikHandle4
+    400036: ikHandle5
+    400038: ikHandle6
+    400040: ikHandle7
+    400042: ikHandle8
+    400044: ikHandle9
+    400046: joint1
+    400048: joint10
+    400050: joint11
+    400052: joint12
+    400054: joint13
+    400056: joint14
+    400058: joint15
+    400060: joint15 1
+    400062: joint15 2
+    400064: joint16
+    400066: joint16 1
+    400068: joint16 2
+    400070: joint17
+    400072: joint17 1
+    400074: joint17 2
+    400076: joint18
+    400078: joint19
+    400080: joint2
+    400082: joint20
+    400084: joint21
+    400086: joint22
+    400088: joint23
+    400090: joint24
+    400092: joint25
+    400094: joint25 1
+    400096: joint25 2
+    400098: joint26
+    400100: joint26 1
+    400102: joint26 2
+    400104: joint27
+    400106: joint28
+    400108: joint29
+    400110: joint3
+    400112: joint30
+    400114: joint31
+    400116: joint32
+    400118: joint33
+    400120: joint34
+    400122: joint35
+    400124: joint36
+    400126: joint37
+    400128: joint38
+    400130: joint39
+    400132: joint4
+    400134: joint40
+    400136: joint41
+    400138: joint42
+    400140: joint43
+    400142: joint44
+    400144: joint45
+    400146: joint46
+    400148: joint47
+    400150: joint48
+    400152: joint49
+    400154: joint5
+    400156: joint50
+    400158: joint51
+    400160: joint52
+    400162: joint53
+    400164: joint54
+    400166: joint55
+    400168: joint56
+    400170: joint57
+    400172: joint58
+    400174: joint59
+    400176: joint6
+    400178: joint60
+    400180: joint61
+    400182: joint62
+    400184: joint7
+    400186: joint8
+    400188: joint9
+    400190: nurbsCircle11
+    400192: nurbsCircle12
+    400194: nurbsCircle13
+    400196: nurbsCircle14
+    400198: nurbsCircle15
+    400200: nurbsCircle16
+    400202: nurbsCircle18
+    400204: nurbsCircle19
+    400206: nurbsCircle21
+    400208: nurbsCircle25
+    400210: nurbsCircle26
+    400212: nurbsCircle27
+    400214: nurbsCircle29
+    400216: nurbsCircle30
+    400218: nurbsCircle31
+    400220: nurbsCircle32
+    400222: nurbsCircle33
+    400224: nurbsCircle34
+    400226: nurbsCircle35
+    400228: nurbsCircle36
+    400230: nurbsCircle37
+    400232: nurbsCircle38
+    400234: nurbsCircle39
+    400236: nurbsCircle40
+    400238: nurbsCircle41
+    400240: nurbsCircle42
+    400242: nurbsCircle43
+    400244: nurbsCircle44
+    400246: nurbsCircle45
+    400248: nurbsCircle46
+    400250: nurbsCircle47
+    400252: nurbsCircle48
+    400254: nurbsCircle49
+    400256: nurbsCircle50
+    400258: nurbsCircle51
+    400260: nurbsCircle8
+    400262: nurbsCircle9
+    400264: rig
+    400266: transform1
+    400268: //RootNode
+    4300000: Box001
+    7400004: idle
+    7400006: walk
+    7400008: run
+    7400010: die
+    7400012: bite
+    11100000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 80
+      lastFrame: 104
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walk
+      takeName: 
+      firstFrame: 1
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: run
+      takeName: 
+      firstFrame: 40
+      lastFrame: 51
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: die
+      takeName: 
+      firstFrame: 200
+      lastFrame: 230
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: bite
+      takeName: 
+      firstFrame: 116
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

@@ -1,0 +1,109 @@
+[
+    {
+        "header": "Get Away",
+        "sub-header": "Presented by Falling Bear",
+        "items": []
+    },
+    {
+        "header": "Developers",
+        "items": [
+            "Jacob Grealy",
+            "Keegan Donnelly",
+            "Nate Niederkorn",
+            "Quentin Bloomfield",
+            "Sean Peck",
+            "Zach Knickerbocker"
+        ]
+    },
+    {
+        "header": "Attributions",
+        "sub-header": "Models",
+        "items": [
+            "Crafting Book - Husam from Blendswap.com",
+            "Inventory Backpack - Facuhead from Blendswap.com",
+            "Bear Model - Umar6419 from TF3DM.com",
+            "Dinosaur Models - Dinosaur Pack 1.0 by janpec",
+            "Bow & Arrows - Cartoony Medieval Weapon Package by Ivanzu",
+            "Campfire - buskins from Turboquid.com",
+			"Refrigerator - Barry from Archibaseplanet.com",
+			"Kitchen - Oleg Temonov from Archibaseplanet.com",
+			"Plants and Rocks - Yughues aka Nobiax from Sharcg.com",
+			"Boat Model - Low-Poly Wooden Row Boat by VR",
+			"Ax - jc_lvngstn from forum.unity3d.com"
+        ]
+    },
+    {
+        "sub-header": "Sounds",
+       	"items": [
+       		"Bear Roar - soundjax.com",
+       		"Jungle Ambience - Delta138boss from Youtube.com",
+       		"Dinosaur Call - bob58 from Freesound.org",
+       		"Dinosaur Thump - CGEffex from Freesound.org",
+       		"Forest Ambient - swooshMC from Freesound.org",
+       		"Forest Walking 1 - nathanaelsams from Freesound.org",
+       		"Forest Walking 2 - JanKoehl from Freesound.org",
+       		"Heavy Forest Walking - skiersailor from Freesound.org",
+       		"Small Dinosaur - base_trix from Freesound.org",
+       		"Tense Awake - lamburg from Freesound.org",
+       		"Bag Zip - Snapper4298 from Freesound.org",
+       		"Bag Unzip - Snapper4298 from Freesound.org",
+       		"Book Open - flowfx from Freefx.co.uk",
+       		"Book Close - flowfx from Freefx.co.uk",
+       		"Item Pickup - WiesenWiesel from Freesound.org",
+       		"Ax Swing - Otakua from Freesound.org",
+       		"Spear Swing - thecluegeek from Freesound.org",
+       		"Torch Swing - qudobup from Freesound.org",
+       		"Voices - geoneo0 from Freesound.org",
+       		"Eating - dersuperanton from Freesound.org",
+       		"Equip - punpcklbw from Freesound.org",
+       		"Destroy - kevinkace from Freesound.org",
+       		"Use - Connersaw64 from Freesound.org",
+       		"Page Turn - DaveOfDeafeat2248 from Freesound.org",
+       		"Crafting - Dvideoguy from Freesound.org",
+       		"Arrow - smcarmeron from Freesound.org",
+       		"Bow - JConti from Freesound.org",
+       		"Logs - CGEffex from Freesound.org",
+       		"Splash -  mckinneysound from Freefx.co.uk",
+       		"Propeller - Soundjay.com",
+       		"Woosh - blastwavefx from Freefx.co.uk",
+       		"Jump - Babylon_Horuv from Freesound.org",
+       		"Damage - Primeval_Polypod from Freesound.org"
+       	]
+    },
+    {
+        "sub-header": "Icons/Textures",
+       	"items": [
+       		"Game icons - game-icons.net",
+            "Raft Icon - Stephen Hemenway from the Noun Project",
+            "Map - ~Essence of a Dream~ from Flickr.com",
+            "Island Icon - Dragonartz.net",
+            "Plane Silhouette - Vector.me",
+            "La Bamba - Carnival Steel Drum Band"
+       	]
+    },
+    {
+        "sub-header": "Misc.",
+       	"items": [
+       	    "Fire Particles - ikk3998 from forum.unity3d.com",
+       	    "Homizio Nova Font - Álvaro Thomáz from dafont.com",
+       	    "Simple JSON - Bunny83 from wiki.unity3d.com",
+       	    "Ocean Assets - Scrawkblog.com",
+       	    "In-Game Console - mminer from Github.com",
+       	    "Pause Menu - Technicat.com"
+       	]
+    },
+    {
+    	"header": "Special Thanks",
+    	"items": [
+    		"Our Friends and Family",
+    		"Roger Crawfis",
+    		"David Maung",
+    		"Unity",
+    		"The Ohio State University"
+    	]
+    },
+    {
+        "header": "Thanks for playing!",
+        "items": []
+    }
+]
